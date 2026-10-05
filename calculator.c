@@ -3,9 +3,13 @@
 int main() {
     int x;
     float a,b,addition,subtraction,multiplication,division;
+    printf("  \n  ");
+    printf("  \n  ");
     printf("Enter the first number \t : \t");
     scanf("%f",&a);
-    printf("Enter the second number  : \t");
+    printf("  \n  ");
+    printf("  \n  ");
+    printf("Enter the second number\t : \t");
     scanf("%f",&b);
       addition = a+b;
       subtraction = a-b;
